@@ -10,3 +10,4 @@ loops
 string
 function
 swap
+square
