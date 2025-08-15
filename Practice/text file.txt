@@ -11,3 +11,4 @@ string
 function
 swap
 square
+variables
