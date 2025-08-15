@@ -12,3 +12,4 @@ function
 swap
 square
 variables
+datatypes
