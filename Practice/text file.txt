@@ -16,4 +16,4 @@ datatypes
 c
 h
 pointer
-structure
+structures
