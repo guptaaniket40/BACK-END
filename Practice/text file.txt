@@ -15,5 +15,5 @@ variables
 datatypes
 c
 h
-pointer
+pointers
 structures
