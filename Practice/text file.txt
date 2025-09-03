@@ -1,6 +1,6 @@
 hello          sql queruy
 hi             create
-Aniket
+Aniket         insert
 Nikhil
 hii
 Hii
