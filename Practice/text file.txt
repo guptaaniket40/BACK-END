@@ -1,7 +1,7 @@
 hello          sql queruy
 hi             create
 Aniket         insert
-Nikhil
+Nikhil         UPDATE
 hii
 Hii
  hiii
