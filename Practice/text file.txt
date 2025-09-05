@@ -3,6 +3,7 @@ hi             create
 Aniket         insert
 Nikhil         UPDATE
 hii            DELETE
+               select
 Hii
  hiii
 hello world
