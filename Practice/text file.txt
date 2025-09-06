@@ -6,7 +6,7 @@ hii            DELETE
                select
 Hii            order by
                group by
- hiii
+ hiii          view
 hello world
 c languge
 loops
