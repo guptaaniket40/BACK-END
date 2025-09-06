@@ -5,6 +5,7 @@ Nikhil         UPDATE
 hii            DELETE
                select
 Hii            order by
+               group by
  hiii
 hello world
 c languge
