@@ -2,7 +2,7 @@ hello          sql queruy
 hi             create
 Aniket         insert
 Nikhil         UPDATE
-hii            DELETE
+hiii            DELETE
                select
 Hii            order by
                group by
