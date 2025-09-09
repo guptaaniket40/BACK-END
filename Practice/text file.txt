@@ -1,5 +1,5 @@
 hello          sql queruy
-hi             create
+hii             create
 Aniket         insert
 Nikhil         UPDATE
 hiii            DELETE
