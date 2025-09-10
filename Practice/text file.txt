@@ -6,7 +6,7 @@ hiii            DELETE
                select
 Hiii            order by
                group by
- hiii          view
+ hiii          views
 h
 hello world
 c languge
