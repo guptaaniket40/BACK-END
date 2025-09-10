@@ -4,7 +4,7 @@ Aniket         insert
 Nikhil         UPDATE
 hiii            DELETE
                select
-Hii            order by
+Hiii            order by
                group by
  hiii          view
 h
