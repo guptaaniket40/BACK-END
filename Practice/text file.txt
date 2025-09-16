@@ -1,5 +1,5 @@
 hello          sql queruy
-hiii             create
+hiiii             create
 Aniket         insert
 Nikhil         UPDATE
 hiii            DELETE
@@ -7,7 +7,7 @@ hiii            DELETE
 Hiii            order by
                group by
  hiii          views
-h
+h              truncate
 hello world
 c languge
 loops
