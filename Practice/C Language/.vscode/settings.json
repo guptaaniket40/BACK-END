@@ -2,7 +2,12 @@
   "files.associations": {
     "HELLO.C": "cpp",
     "ELSE-IF.C": "cpp",
-    "Pattern.C": "cpp"
+    "Pattern.C": "cpp",
+    "FUNCTION.C": "cpp",
+    "STRLEN.C": "cpp",
+    "INCRE-DE.C": "cpp",
+    "BREAKSTA.C": "cpp",
+    "DOWHILEL.C": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
